@@ -1,0 +1,404 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar{
+    background-color: rgb(255, 255, 255);
+    padding-left: 10%;
+    width: 100%;
+  }
+ 
+  .navbar a{
+    color: rgba(0, 0, 137, 0.705);
+    font-weight: 800;
+    text-decoration: none;
+    margin-right: 20px;
+    
+  }
+  .navbar a:hover{
+    color: #4285F4;
+  }
+  .logo{
+    font-size: 1.6em;
+  }
+ 
+  .logo19{
+    color: rgba(22, 22, 233, 0.719);
+  }
+  
+  .header{
+    background-image: url(imgs/shape-a.png);
+    background-size: cover;
+    width: 100%;
+    padding-top: 10%;
+    padding-left: 12%;
+    padding-right: 12%;
+  }
+  .corona{
+    color: rgb(20, 80, 129);
+    font-weight: 800;
+    font-size: 80px;
+  }
+  .covid{
+    color:red;
+  }
+  .virus{
+    color: rgb(20, 80, 129);
+  }
+  .howtoprotect{
+    border-radius: 40px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 20%;
+    padding-right: 20%;
+    margin-left: 2%;
+    margin-right: 2%;
+  }
+  .aboutcovid{
+    text-decoration: none;
+    padding-top: 1%;
+  }
+  .headerp{
+    margin-top: 10%;
+  }
+  .protectcorona{
+    margin-top: 10%;
+  }
+  .statistics{
+    margin-top: 10%;
+  }
+  .statistics h4{
+    color: rgb(20, 80, 129);
+  }
+  .statistics p{
+    color:gray;
+  }
+  .small{
+    font-size: small;
+    color:gray;
+  }
+  .about{
+    width: 100%;
+    padding: 10%;
+  }
+  .aboutdis{
+    color: blue;
+  }
+  .cv19{
+    color: rgb(20, 80, 129);
+  }
+  .list{
+    margin-left: 35%;
+    margin-right: 10%;
+  }
+  .whatuneed ul {
+    list-style-type: none;
+    padding: 0;
+    padding-right: 0;
+    margin-bottom: 1;
+    color: blue ;
+   position: relative;
+  }
+  
+  .whatuneed ul li {
+    border: 1px solid #ddd;
+    margin-top: 0px;
+    background-color: white ;
+    padding: 5%;
+  }
+  .whatuneed ul i{
+    position: relative;
+    float: right;
+  }
+  .toknow{
+    color: black;
+  }
+  .bgc{
+    background-color: aliceblue;
+    padding-bottom: 5%;
+  }
+  .hcis{
+    text-align: center;
+    width: 100%;
+    padding-top: 5%;
+  }
+  .hcis h4{
+    color: blue;
+  }
+  .hcis h2{
+    color: rgb(20, 80, 129);
+  }
+  .trans{
+    width: 100%;
+    padding: 10%;
+  }
+  .question{
+    padding-left: 2%;
+    padding-right: 2%;
+  }
+ .watsoc{
+    text-align: center;
+    padding-top: 5%;
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-bottom: 5%;
+ }
+ .watsoc h5{
+    color: blue;
+ }
+ .watsoc h2{
+    color: rgb(20, 80, 129);
+ }
+ .fcs{
+    width: 100%;
+    padding: 10%;
+ }
+ 
+ .fr img{
+    width: 25%;
+    border-radius: 50%;
+ }
+ .fr h3{
+    color: #4285F4;
+ }
+ .exc{
+    width: 100%;
+    padding-left: 5%;
+    padding-right: 5%;
+ }
+ .sah{
+    color: blue;
+ }
+ 
+ .hqfa{
+    padding-top: 1%;
+ }
+ .Prevention{
+    background-color: aliceblue;
+ }
+ .prev{
+    width: 100%;
+    text-align: center;
+    padding: 10%;
+ }
+ .htpy{
+    text-align: center;
+    padding-top: 10%;
+ }
+ .prev img{
+    width: 40%;
+    height: 40%;
+    border-radius: 50%;
+ }
+ .ha{
+    text-align: center;
+    width: 100%;
+ }
+.hal{
+    text-align: right;
+}
+.har{
+    text-align: left;
+}
+.tst{
+    width: 80%;
+    text-align: center;
+    background-color: white;
+    margin-left: 10%;
+    margin-top: 5%;
+    padding-top: 2%;
+}
+.fol{
+    text-align: center;
+    padding-top: 5%;
+}
+.fst{
+padding: 5%;
+}
+.wdi{
+    color: rgb(0, 132, 241);
+}
+.treat{
+    width: 100%;
+    background-color: rgb(56, 105, 241);
+    background-image: url(imgs/shape-a.png);
+    color: white;
+}
+.treatl{
+    padding: 10%;
+}
+.treatr{
+    margin-top: 5%;
+    margin-right: 1%;
+    margin-bottom: 5%;
+    background-color: rgb(20, 80, 129);
+}
+.bcss{
+    color: rgb(137, 198, 255);
+}
+.dodon{
+    width: 100%;
+    background-color: aliceblue;
+}
+.dodon1{
+    width: 100%;
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5%;
+    background-color: aliceblue;
+}
+.dodon1 h4{
+    color: rgb(0, 132, 241);
+}
+.dodon1 h2{
+    color: rgb(20, 80, 129);
+}
+.dodon2{
+    width: 100%;
+    padding-top: 5%;
+    padding-right: 5%;
+    padding-left: 15%;
+    padding-bottom: 5%;
+}
+.dodon2 img{
+    width: 100%;
+
+}
+.red img{
+    border: 3px solid red;
+    border-radius: 50%;
+    width: 100%;
+}
+.green img{
+    border: 3px solid green;
+    border-radius: 50%;
+    width: 100%;
+}
+.dodon2 p{
+    margin-top: 20%;
+    color: rgb(0, 132, 241);
+}
+.news{
+    width: 100%;
+    background-color: aliceblue;
+    text-align: center;
+    padding: 10%;
+}
+.newtxt h3{
+    color: rgb(0, 132, 241);
+}
+.newtxt h1{
+    color: rgb(20, 80, 129);
+}
+.newimg img{
+    margin: 5%;
+    border-radius: 5%;
+}
+.newimg h5{
+    color: rgb(20, 80, 129);
+}
+.footer{
+    width: 100%;
+    padding: 10%;
+    
+    background-image: url(imgs/shape-a.png);
+    background-color: rgb(0, 0, 45);
+    color: white;
+}
+.folo img{
+    width: 10%;
+}
+
+.logo2{
+    color: rgb(0, 132, 241);
+}
+.footer p{
+    color: rgb(105, 124, 142);
+}
+.focard{
+    width: 100%;
+}
+.focard button{
+    margin: 5%;
+}
+.focen{
+    text-align: center;
+}
+.faq{
+    width: 100%;
+    padding-top: 5%;
+
+}
+.faq button{
+    background-color: white;
+}
+.faq i{
+    position: relative;
+    float: right;
+}
+.faq p{
+    display: none;
+}
+.list ul{
+    width: 100%;
+}
+.bor li{
+    list-style-type:  none;
+    font-size: large;
+}
+.bor button{
+    width: 100%;
+    border-radius: 5%;
+    border-color: #ddd;
+    border: 1px solid rgb(214, 214, 214);
+    padding: 5%;
+}
+
+.nobul li{
+    list-style-type:  none;
+    border: 1px solid;
+    border-color: #ddd;
+    padding: 5%;
+    color: blue;
+    font-size: large;
+    background-color: aliceblue;
+    width: 100%;
+    text-align: center;
+    box-sizing: content-box;
+}
+.nobul p{
+    color: black;
+}
+.nobul i{
+    
+    background-color: aliceblue;
+}
+#list2{
+    display: none;
+}
+#list3{
+    display: none;
+}
+#list4{
+    display: none;
+}
+#list5{
+    display: none;
+}
+#list6{
+    display: none;
+}
+.hidebut{
+    border-style: none;
+    color: blue;
+}
+.imin{
+    display: none;
+}
+.right{
+    float: right;
+}
